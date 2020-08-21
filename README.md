@@ -7,7 +7,7 @@ Ashtam Singh on 21st August 2020
 
 * Executive Summary
 * Delivery Scope
-* Device Firmware APIs
+* Device APIs
 * Maintenance
 * Exclusions
 * Deliverables
@@ -44,16 +44,17 @@ The Value Proposition of using Ashtam Singh for this project are:
     - A review of the current system which helps in the firmaware developing of the devices.
     - A project kickoff meeting to discuss and document the complete scope of Snow Melting Machine and the goals and requirements of this project.
 
-## Device Firmware APIs
+## Device APIs
 
-* Controlling manual mode
-* Provisioning device wifi
-* Check if wifi is connected or not
-* Device uptime
-* Set/Get state of Heating mode
-* Set/Get state of Snowing mode
-* Set/Get state of Temp Limit mode
-* Set/Get state of Ground Limit mode
+* Admin SDK / APIs for Devices Native packages to interact with the devices:-
+    - Controlling manual mode
+    - Provisioning device wifi
+    - Check if wifi is connected or not
+    - Device uptime
+    - Set/Get state of Heating mode
+    - Set/Get state of Snowing mode
+    - Set/Get state of Temp Limit mode
+    - Set/Get state of Ground Limit mode
 
 
 ## Maintenance (if required)
