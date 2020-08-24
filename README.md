@@ -12,7 +12,6 @@ Ashtam Singh on 21st August 2020
 * Exclusions
 * Deliverables
 * Customer Responsibilities
-* Investment and Cost
 * Acceptance Criteria
 * Assumptions
 
@@ -31,7 +30,7 @@ Ashtam Singh will work with IdeaUsher to:
 * Knowledge Transfer/Integrate with IdeaUsher.
 
 Ashtam Singh proposes to design, develop and provide installation of v1.0 of the proposed system to IdeaUsher.
-This activity will require 2 weeks. The estimated cost for this activity would be 60,000 INR plus the cost for the MCU used in development(if required).
+This activity will require 2 weeks.
 
 The Value Proposition of using Ashtam Singh for this project are:
 * Proven engineering techniques for making Integrated systems.
@@ -79,25 +78,6 @@ Access top-level Git repositories for the hardware SDKs and APIs.
 * Client will assign a key contact who will be responsible for providing Ashtam Singh with information, access to personnel, and facility access if required.
 * Client will provide a work area space with desk, chair, Internet access for use by Ashtam Singh to conduct project business while working on-site.
 
-## Investment and Cost
-* Man-hour required: 2 weeks: 30 hours per week
-    
-* Server/Web hosting charges (if required):
-    * 60$ / month = 4000 INR
-
-*Bill separately for travel costs will be billed at actual cost and will not exceed 10,000 INR for the entire project.
-
- * Payment Schedule
-
-| Milestone                                 | Percentage    | Amount    |
-| -------------                             |:-------------:| -----:    |
-| Requirement Finalization                  | 0%            | 5,000 INR|
-| First working prototypes                  | 50%           | 35,000 INR|
-| Final Delivery + Software handoaver       | 100%          | 20,000 INR|
-
-Upwork commission fee which is 20% of the overall cost approx 10,000 INR to be paid by the Client - IdeaUsher.
-Server cost to be paid directly or at the start of each month.
-Travel reimbursements as and when declared.
 
 ## Acceptance Criteria
 After this evaluation, all deliverables for this phase will be presented to IdeaUsher for review.
