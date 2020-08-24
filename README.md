@@ -91,7 +91,7 @@ Access top-level Git repositories for the hardware SDKs and APIs.
 ## Acceptance Criteria
 After this evaluation, all deliverables for this phase will be presented to IdeaUsher for review.
 
-IdeaUsher or his representative will have three business days from the date of delivery of any document that is a deliverable to review it and request any changes.  If Ashtam Singh does not receive notification of any required changes within this period, the document will be deemed to have been accepted without modification and will be reissued as a final copy.
+IdeaUsher or his representative will have Seven business days from the date of delivery of any document that is a deliverable to review it and request any changes.  If Ashtam Singh does not receive notification of any required changes within this period, the document will be deemed to have been accepted without modification and will be reissued as a final copy.
 
 If Ashtam Singh is notified by IdeaUsher, within the above time frame, of any changes required, Ashtam Singh will within two business days of such notification implement those changes as have been agreed between the parties.  A final copy of the document will then be submitted to IdeaUsher.
 
