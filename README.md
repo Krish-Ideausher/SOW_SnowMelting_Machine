@@ -1,7 +1,7 @@
 # Statement of Work - Automation for Snow melting machine
 
 A document prepared by 
-Ashtam Singh on 21st August 2020
+Ashtam Singh on 24st August 2020
 
 ## Table of Content
 
