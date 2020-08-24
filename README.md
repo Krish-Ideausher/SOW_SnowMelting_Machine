@@ -23,7 +23,7 @@ This documentation is to serve as a 'Statement of Work' or SOW for controlling s
 Ashtam Singh will work with IdeaUsher to:
 
 * Designing the architecture for connecting and controlling the device to cloud.
-* Designing the BLE api's for WiFi Provisioning.
+* Designing the BLE API for WiFi Provisioning.
 * Designing the automatic unique ID generation for devices. 
 * Develop and Engineer the system.
 * Provide documentation of the new system.
@@ -40,7 +40,7 @@ The Value Proposition of using Ashtam Singh for this project are:
 ## Delivery Scope
 
 * Project Definition
-    - A review of the current system which helps in the firmaware developing of the devices.
+    - A review of the current system which helps in the firmware developing of the devices.
     - A project kickoff meeting to discuss and document the complete scope of Snow Melting Machine and the goals and requirements of this project.
 
 ## Device APIs
@@ -50,7 +50,7 @@ The Value Proposition of using Ashtam Singh for this project are:
     - Provisioning device wifi
     - Check if wifi is connected or not
     - Device uptime
-    - Set/Get state of Heating mode
+    - Set/Get state of the Heating mode
     - Set/Get state of Snowing mode
     - Set/Get state of Temp Limit mode
     - Set/Get state of Ground Limit mode
@@ -65,6 +65,10 @@ The followings are excluded from the project scope
 
 ## Deliverables
 The deliverables are listed below.
+
+* Wifi provisioning is provided on the end-user device so that end-user can easily connect their router to the system. Below is the step-wise guide. 
+![WiFi Flow](https://github.com/ashtam55/Sow_brewing_automation/raw/master/Wifi%20provisioning%20flow.png)
+* Wifi provisioning can also be done via BLE APIs of the device and can be integrated with the Client proprietary application.
 
 * Software
 Access top-level Git repositories for the hardware SDKs and APIs.
