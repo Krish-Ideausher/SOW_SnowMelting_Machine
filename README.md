@@ -70,6 +70,11 @@ The deliverables are listed below.
 ![WiFi Flow](https://github.com/ashtam55/Sow_brewing_automation/raw/master/Wifi%20provisioning%20flow.png)
 * Wifi provisioning can also be done via BLE APIs of the device and can be integrated with the Client proprietary application.
 
+* Snowmatic Devices Proposed Architecture
+![Snowmatic-flow](https://github.com/ashtam55/SOW_SnowMelting_Machine/blob/master/Snowmatic-flow.png)
+* Every device is configured with its Unique ID derived from their MAC address. These ID's is used by the End-User for adding devices in the Client mobile app.
+Now every request which is coming to the Cloud is processed according to this ID and forward to devices accordingly. This Solution is scalable, fast and cost effective.
+
 * Software
 Access top-level Git repositories for the hardware SDKs and APIs.
 
