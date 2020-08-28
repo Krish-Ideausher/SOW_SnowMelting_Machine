@@ -25,6 +25,8 @@ Ashtam Singh will work with IdeaUsher to:
 * Designing the architecture for connecting and controlling the device to cloud.
 * Designing the BLE API for WiFi Provisioning.
 * Designing the automatic unique ID generation for devices. 
+* Setting up the Mqtt Broker on client server.
+* Develop nodejs application bridge.
 * Develop and Engineer the system.
 * Provide documentation of the new system.
 * Knowledge Transfer/Integrate with IdeaUsher.
@@ -74,6 +76,10 @@ The deliverables are listed below.
 ![Snowmatic-flow](https://github.com/ashtam55/SOW_SnowMelting_Machine/blob/master/Snowmatic-flow.png)
 * Every device is configured with its Unique ID derived from their MAC address. These ID's is used by the End-User for adding devices in the Client mobile app.
 Now every request which is coming to the Cloud is processed according to this ID and forward to devices accordingly. This Solution is scalable, fast and cost effective.
+
+* Mqtt broker.
+
+* Nodejs script for pushing and retriving device data from firebase.
 
 * Software
 Access top-level Git repositories for the hardware SDKs and APIs.
