@@ -11,7 +11,7 @@
 #### Steps for Uploading the Firmware
 1. Open the binaries folder into your command line.
 2. Enter this command ``` esptool.py -b 115200 write_flash 0x1000 _boot_0x1000.bin 0x8000 partitions.bin 0x10000 firmware.bin ```
-3. If you see ``` Connecting........_____....._____....._____....._____....._____....._____....._____ ```, then you have to make the ESP board into boot mode by holding down the ```boot``` button for 3-5 seconds on the ESP board.
+3. If you see ``` Connecting........_____....._____....._____....._```, then you have to make the ESP board into boot mode by holding down the ```boot``` button  then press ```reset``` button, unpress both simultaneously on the ESP board. This will start the uploading to device.
 4. If everything correct you see ``` Uploading ``` otherwise start from step 2 again.
 5. After uploading press ``` reset / EN ``` button on ESP32. It will reset the board.
 
